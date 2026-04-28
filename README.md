@@ -1,0 +1,92 @@
+![Home Page](generatepress-child/images/home-page.png)
+# ScholarPath India 🎓
+
+A civic-tech scholarship discovery portal built to solve a real 
+problem — over 60% of eligible Indian students never apply for 
+government scholarships because information is scattered across 
+50+ portals with no unified search.
+
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+![Home Page](generatepress-child/images/home-page.png)
+
+---
+
+## 🏡 Home
+![Home](generatepress-child/images/home.png)
+
+---
+
+## ✨ Home Features
+![Home Features](generatepress-child/images/home-features.png)
+
+---
+
+## 🏁 Home End
+![Home End](generatepress-child/images/home-end.png)
+
+---
+
+## 🎓 Scholarship Page
+![Scholarship Page](generatepress-child/images/scholarship-page.png)
+
+---
+
+## 🧮 Eligibility Checker Page
+![Eligibility Checker Page](generatepress-child/images/eligibility-checker-page.png)
+
+---
+
+## 📋 Eligibility Checker
+![Eligibility Checker](generatepress-child/images/eligibility-checker.png)
+
+---
+
+## ℹ️ About Page
+![About Page](generatepress-child/images/about-page.png)
+
+---
+
+## 📞 Contact Page
+![Contact Page](generatepress-child/images/contact-page.png)
+
+## 🌐 Live Demo
+[localhost — deployment to Hostinger in progress]
+
+## 🏗️ Tech Stack
+- **CMS:** WordPress 6.9 with custom child theme
+- **Languages:** PHP, HTML5, CSS3, JavaScript (Vanilla)
+- **Plugins:** Advanced Custom Fields, CPT UI, WPForms, 
+  Rank Math SEO, LiteSpeed Cache
+- **Theme:** GeneratePress (parent) + custom child theme
+- **Database:** MySQL via XAMPP (local) / cPanel (production)
+
+## 📄 Pages Built
+| Page | Description |
+|------|-------------|
+| Homepage | Hero, search, live scholarship cards, CTA |
+| Scholarships | Full listing with search and count |
+| Eligibility Checker | 4-step multi-form wizard with live matching |
+| Scholarship Detail | Full detail with checklist, how-to-apply, apply button |
+| About | Mission, stats, problem statement, values |
+| Contact | Two-column layout with form + FAQ |
+
+## 🔧 Custom WordPress Architecture
+- **Custom Post Type** — `scholarship` registered via CPT UI
+- **Custom Taxonomies** — `scheme_state`, `scheme_category`
+- **ACF Field Group** — 9 fields per scholarship (amount, deadline, 
+  ministry, eligible category, gender, marks, income, documents, URL)
+- **Template Hierarchy** — custom `front-page.php`, 
+  `page-scholarships.php`, `single-scholarship.php` and more
+- **Child Theme** — full child theme with `functions.php`, 
+  custom CSS variables, and GeneratePress filter hooks
+
+## ✨ Key Features
+- 🔍 Live scholarship search
+- 🧮 Eligibility checker — 4-step form matching against real DB
+- ✅ Interactive document checklist (click to mark collected)
+- 📅 Deadline countdown display
+- 📱 Fully responsive, mobile-first design
+- 🎨 Custom design system (navy + saffron + teal palette)
+

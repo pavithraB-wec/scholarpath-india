@@ -1,0 +1,71 @@
+/*
+Theme Name: GeneratePress Child
+Template: generatepress
+Description: ScholarPath India Child Theme
+Version: 1.0
+*/
+
+body {
+    overflow-x: hidden !important;
+}
+
+:root {
+  --sp-navy: #0c5094;
+  --sp-saffron: #E8871A;
+  --sp-teal: #1A7A6E;
+}
+
+/* ── FRONT PAGE FULL WIDTH FIX ── */
+.sp-front-page .site-content,
+.sp-front-page .content-area,
+.sp-front-page .site-main,
+.sp-front-page .hentry,
+.sp-front-page .entry-content,
+.sp-front-page .site-content > .grid-container {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    float: none !important;
+}
+
+.sp-front-page .entry-header {
+    display: none !important;
+}
+
+/* ── SECTION FULL WIDTH BREAKOUT ── */
+.sp-front-page .sp-hero,
+.sp-front-page .sp-how,
+.sp-front-page .sp-cta {
+    display: block;
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+}
+
+/* ── HEADER ── */
+.site-header {
+    border-bottom: 1px solid #E2E8F0;
+    background: #ffffff !important;
+}
+
+.main-navigation a {
+    font-weight: 500;
+    font-size: 15px;
+    color: #2C3E50 !important;
+}
+
+.main-navigation a:hover {
+    color: #E8871A !important;
+}
+
+/* ── FOOTER ── */
+.site-footer {
+    background: #0D1B2A !important;
+    color: rgba(255,255,255,0.6) !important;
+    padding: 24px !important;
+    text-align: center;
+}
+
+.site-footer a {
+    color: #E8871A !important;
+}

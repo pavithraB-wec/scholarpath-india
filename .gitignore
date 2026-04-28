@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.sublime-workspace
+
+# WordPress
+wp-config.php
+wp-content/uploads/
