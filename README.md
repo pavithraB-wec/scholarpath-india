@@ -6,10 +6,6 @@ problem — over 60% of eligible Indian students never apply for
 government scholarships because information is scattered across 
 50+ portals with no unified search.
 
-# 📸 Project Screenshots
-
-# 📸 Project Screenshots
-
 ## 🏠 Home Page
 ![Home Page](images/home-page.png)
 
