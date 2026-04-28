@@ -1,4 +1,4 @@
-![Home Page](generatepress-child/images/home-page.png)
+![Home Page](images/home-page.png)
 # ScholarPath India 🎓
 
 A civic-tech scholarship discovery portal built to solve a real 
@@ -8,48 +8,50 @@ government scholarships because information is scattered across
 
 # 📸 Project Screenshots
 
+# 📸 Project Screenshots
+
 ## 🏠 Home Page
-![Home Page](generatepress-child/images/home-page.png)
+![Home Page](images/home-page.png)
 
 ---
 
 ## 🏡 Home
-![Home](generatepress-child/images/home.png)
+![Home](images/home.png)
 
 ---
 
 ## ✨ Home Features
-![Home Features](generatepress-child/images/home-features.png)
+![Home Features](images/home-features.png)
 
 ---
 
 ## 🏁 Home End
-![Home End](generatepress-child/images/home-end.png)
+![Home End](images/home-end.png)
 
 ---
 
 ## 🎓 Scholarship Page
-![Scholarship Page](generatepress-child/images/scholarship-page.png)
+![Scholarship Page](images/scholarship-page.png)
 
 ---
 
 ## 🧮 Eligibility Checker Page
-![Eligibility Checker Page](generatepress-child/images/eligibility-checker-page.png)
+![Eligibility Checker Page](images/eligibility-checker-page.png)
 
 ---
 
 ## 📋 Eligibility Checker
-![Eligibility Checker](generatepress-child/images/eligibility-checker.png)
+![Eligibility Checker](images/eligibility-checker.png)
 
 ---
 
 ## ℹ️ About Page
-![About Page](generatepress-child/images/about-page.png)
+![About Page](images/about-page.png)
 
 ---
 
 ## 📞 Contact Page
-![Contact Page](generatepress-child/images/contact-page.png)
+![Contact Page](images/contact-page.png)
 
 ## 🌐 Live Demo
 [localhost — deployment to Hostinger in progress]
