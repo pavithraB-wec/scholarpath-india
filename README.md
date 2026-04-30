@@ -71,7 +71,10 @@ government scholarships because information is scattered across
 | Contact | Two-column layout with form + FAQ |
 
 ## 🔧 Custom WordPress Architecture
-- **Custom Post Type** — `scholarship` registered via CPT UI
+
+https://github.com/user-attachments/assets/67a7635c-8a4f-41c3-bb8c-874763f5743c
+
+
 - **Custom Taxonomies** — `scheme_state`, `scheme_category`
 - **ACF Field Group** — 9 fields per scholarship (amount, deadline, 
   ministry, eligible category, gender, marks, income, documents, URL)
@@ -87,4 +90,10 @@ government scholarships because information is scattered across
 - 📅 Deadline countdown display
 - 📱 Fully responsive, mobile-first design
 - 🎨 Custom design system (navy + saffron + teal palette)
+
+
+
+
+https://github.com/user-attachments/assets/527f1d26-87d8-4997-9362-0d2480605137
+
 
