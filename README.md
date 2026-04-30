@@ -72,9 +72,6 @@ government scholarships because information is scattered across
 
 ## 🔧 Custom WordPress Architecture
 
-https://github.com/user-attachments/assets/67a7635c-8a4f-41c3-bb8c-874763f5743c
-
-
 - **Custom Taxonomies** — `scheme_state`, `scheme_category`
 - **ACF Field Group** — 9 fields per scholarship (amount, deadline, 
   ministry, eligible category, gender, marks, income, documents, URL)
